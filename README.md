@@ -1,4 +1,3 @@
-# etherscan.io https://etherscan.io/token/0x2d1d15f2a7AB2b68E4EC122831820DBe7B4f035F
 ## Prerequisites
 1. nodejs, and make sure it's version above 8.0.0
 2. npm
